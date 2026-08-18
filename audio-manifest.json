@@ -1,0 +1,1566 @@
+{
+  "model": "gpt-audio-1.5",
+  "voice": "echo",
+  "items": [
+    {
+      "id": "q-1",
+      "title": "Q1. 1분 자기소개를 해주세요.",
+      "file": "audio/q-1.mp3"
+    },
+    {
+      "id": "q-2",
+      "title": "Q2. 왜 40대에 웹퍼블리셔로 전향했습니까?",
+      "file": "audio/q-2.mp3"
+    },
+    {
+      "id": "q-3",
+      "title": "Q3. 43세 신입인데 왜 우리 회사가 뽑아야 합니까?",
+      "file": "audio/q-3.mp3"
+    },
+    {
+      "id": "q-4",
+      "title": "Q4. 어린 팀장이나 사수 밑에서도 일할 수 있습니까?",
+      "file": "audio/q-4.mp3"
+    },
+    {
+      "id": "q-5",
+      "title": "Q5. 이전 직급보다 낮은 직급으로 입사해도 괜찮습니까?",
+      "file": "audio/q-5.mp3"
+    },
+    {
+      "id": "q-6",
+      "title": "Q6. 이전 연봉보다 낮아질 수 있는데 괜찮습니까?",
+      "file": "audio/q-6.mp3"
+    },
+    {
+      "id": "q-7",
+      "title": "Q7. 왜 이전 일을 계속하지 않았나요?",
+      "file": "audio/q-7.mp3"
+    },
+    {
+      "id": "q-8",
+      "title": "Q8. 웹퍼블리셔를 얼마나 오래 할 생각인가요?",
+      "file": "audio/q-8.mp3"
+    },
+    {
+      "id": "q-9",
+      "title": "Q9. 프론트엔드 개발자로 갈 생각 아닌가요?",
+      "file": "audio/q-9.mp3"
+    },
+    {
+      "id": "q-10",
+      "title": "Q10. 본인의 가장 큰 강점은 무엇입니까?",
+      "file": "audio/q-10.mp3"
+    },
+    {
+      "id": "q-11",
+      "title": "Q11. 본인의 단점은 무엇입니까?",
+      "file": "audio/q-11.mp3"
+    },
+    {
+      "id": "q-12",
+      "title": "Q12. 갈등이 생기면 어떻게 해결합니까?",
+      "file": "audio/q-12.mp3"
+    },
+    {
+      "id": "q-13",
+      "title": "Q13. 피드백을 받으면 어떻게 합니까?",
+      "file": "audio/q-13.mp3"
+    },
+    {
+      "id": "q-14",
+      "title": "Q14. 모르는 질문을 받으면 어떻게 합니까?",
+      "file": "audio/q-14.mp3"
+    },
+    {
+      "id": "q-15",
+      "title": "Q15. 반복적인 유지보수 업무도 괜찮습니까?",
+      "file": "audio/q-15.mp3"
+    },
+    {
+      "id": "q-16",
+      "title": "Q16. 포트폴리오 프로젝트와 실무는 다를 텐데요?",
+      "file": "audio/q-16.mp3"
+    },
+    {
+      "id": "q-17",
+      "title": "Q17. 가장 실패했던 경험은 무엇입니까?",
+      "file": "audio/q-17.mp3"
+    },
+    {
+      "id": "q-18",
+      "title": "Q18. 5년 후 어떤 모습이고 싶습니까?",
+      "file": "audio/q-18.mp3"
+    },
+    {
+      "id": "q-19",
+      "title": "Q19. 왜 우리 회사에 지원했습니까?",
+      "file": "audio/q-19.mp3"
+    },
+    {
+      "id": "q-20",
+      "title": "Q20. 웹퍼블리셔인데 디자인 포트폴리오를 왜 따로 만들었습니까?",
+      "file": "audio/q-20.mp3"
+    },
+    {
+      "id": "q-21",
+      "title": "Q21. HTML은 무엇이고 어떤 역할을 합니까?",
+      "file": "audio/q-21.mp3"
+    },
+    {
+      "id": "q-22",
+      "title": "Q22. HTML5의 주요 특징은 무엇입니까?",
+      "file": "audio/q-22.mp3"
+    },
+    {
+      "id": "q-23",
+      "title": "Q23. 시맨틱 HTML이 무엇입니까?",
+      "file": "audio/q-23.mp3"
+    },
+    {
+      "id": "q-24",
+      "title": "Q24. div와 section은 언제 구분합니까?",
+      "file": "audio/q-24.mp3"
+    },
+    {
+      "id": "q-25",
+      "title": "Q25. section과 article의 차이는 무엇입니까?",
+      "file": "audio/q-25.mp3"
+    },
+    {
+      "id": "q-26",
+      "title": "Q26. a와 button은 어떻게 구분합니까?",
+      "file": "audio/q-26.mp3"
+    },
+    {
+      "id": "q-27",
+      "title": "Q27. strong과 b의 차이는 무엇입니까?",
+      "file": "audio/q-27.mp3"
+    },
+    {
+      "id": "q-28",
+      "title": "Q28. em과 i의 차이는 무엇입니까?",
+      "file": "audio/q-28.mp3"
+    },
+    {
+      "id": "q-29",
+      "title": "Q29. label과 placeholder의 차이는 무엇입니까?",
+      "file": "audio/q-29.mp3"
+    },
+    {
+      "id": "q-30",
+      "title": "Q30. alt는 왜 필요합니까?",
+      "file": "audio/q-30.mp3"
+    },
+    {
+      "id": "q-31",
+      "title": "Q31. 모든 이미지에 설명형 alt가 필요합니까?",
+      "file": "audio/q-31.mp3"
+    },
+    {
+      "id": "q-32",
+      "title": "Q32. id와 class의 차이는 무엇입니까?",
+      "file": "audio/q-32.mp3"
+    },
+    {
+      "id": "q-33",
+      "title": "Q33. data-* 속성은 무엇입니까?",
+      "file": "audio/q-33.mp3"
+    },
+    {
+      "id": "q-34",
+      "title": "Q34. defer와 async의 차이는 무엇입니까?",
+      "file": "audio/q-34.mp3"
+    },
+    {
+      "id": "q-35",
+      "title": "Q35. meta viewport의 역할은 무엇입니까?",
+      "file": "audio/q-35.mp3"
+    },
+    {
+      "id": "q-36",
+      "title": "Q36. DOCTYPE은 왜 사용합니까?",
+      "file": "audio/q-36.mp3"
+    },
+    {
+      "id": "q-37",
+      "title": "Q37. 페이지에 h1은 몇 개가 적절합니까?",
+      "file": "audio/q-37.mp3"
+    },
+    {
+      "id": "q-38",
+      "title": "Q38. block과 inline(인라인) 요소의 차이는 무엇입니까?",
+      "file": "audio/q-38.mp3"
+    },
+    {
+      "id": "q-39",
+      "title": "Q39. header와 head의 차이는 무엇입니까?",
+      "file": "audio/q-39.mp3"
+    },
+    {
+      "id": "q-40",
+      "title": "Q40. main은 어떤 요소입니까?",
+      "file": "audio/q-40.mp3"
+    },
+    {
+      "id": "q-41",
+      "title": "Q41. CSS Cascade란 무엇입니까?",
+      "file": "audio/q-41.mp3"
+    },
+    {
+      "id": "q-42",
+      "title": "Q42. Specificity란 무엇입니까?",
+      "file": "audio/q-42.mp3"
+    },
+    {
+      "id": "q-43",
+      "title": "Q43. :is()는 무엇입니까?",
+      "file": "audio/q-43.mp3"
+    },
+    {
+      "id": "q-44",
+      "title": "Q44. :where()와 :is()의 차이는 무엇입니까?",
+      "file": "audio/q-44.mp3"
+    },
+    {
+      "id": "q-45",
+      "title": "Q45. !important를 왜 남발하면 안 됩니까?",
+      "file": "audio/q-45.mp3"
+    },
+    {
+      "id": "q-46",
+      "title": "Q46. Box Model을 설명해 주세요.",
+      "file": "audio/q-46.mp3"
+    },
+    {
+      "id": "q-47",
+      "title": "Q47. margin과 padding의 차이는 무엇입니까?",
+      "file": "audio/q-47.mp3"
+    },
+    {
+      "id": "q-48",
+      "title": "Q48. Margin Collapse란 무엇입니까?",
+      "file": "audio/q-48.mp3"
+    },
+    {
+      "id": "q-49",
+      "title": "Q49. Flexbox를 설명해 주세요.",
+      "file": "audio/q-49.mp3"
+    },
+    {
+      "id": "q-50",
+      "title": "Q50. justify-content와 align-items의 차이는 무엇입니까?",
+      "file": "audio/q-50.mp3"
+    },
+    {
+      "id": "q-51",
+      "title": "Q51. flex-grow는 무엇입니까?",
+      "file": "audio/q-51.mp3"
+    },
+    {
+      "id": "q-52",
+      "title": "Q52. flex-shrink는 무엇입니까?",
+      "file": "audio/q-52.mp3"
+    },
+    {
+      "id": "q-53",
+      "title": "Q53. flex-basis는 무엇입니까?",
+      "file": "audio/q-53.mp3"
+    },
+    {
+      "id": "q-54",
+      "title": "Q54. flex: 1은 어떤 의미입니까?",
+      "file": "audio/q-54.mp3"
+    },
+    {
+      "id": "q-55",
+      "title": "Q55. Grid와 Flex를 언제 구분해서 씁니까?",
+      "file": "audio/q-55.mp3"
+    },
+    {
+      "id": "q-56",
+      "title": "Q56. 1fr은 무엇입니까?",
+      "file": "audio/q-56.mp3"
+    },
+    {
+      "id": "q-57",
+      "title": "Q57. minmax()는 무엇입니까?",
+      "file": "audio/q-57.mp3"
+    },
+    {
+      "id": "q-58",
+      "title": "Q58. auto-fit과 auto-fill의 차이는 무엇입니까?",
+      "file": "audio/q-58.mp3"
+    },
+    {
+      "id": "q-59",
+      "title": "Q59. position 속성 종류를 설명해 주세요.",
+      "file": "audio/q-59.mp3"
+    },
+    {
+      "id": "q-60",
+      "title": "Q60. position absolute의 기준점은 무엇입니까?",
+      "file": "audio/q-60.mp3"
+    },
+    {
+      "id": "q-61",
+      "title": "Q61. relative는 왜 사용합니까?",
+      "file": "audio/q-61.mp3"
+    },
+    {
+      "id": "q-62",
+      "title": "Q62. fixed와 sticky의 차이는 무엇입니까?",
+      "file": "audio/q-62.mp3"
+    },
+    {
+      "id": "q-63",
+      "title": "Q63. sticky가 안 되는 대표 원인은 무엇입니까?",
+      "file": "audio/q-63.mp3"
+    },
+    {
+      "id": "q-64",
+      "title": "Q64. z-index가 안 먹는 이유는 무엇입니까?",
+      "file": "audio/q-64.mp3"
+    },
+    {
+      "id": "q-65",
+      "title": "Q65. display:none, visibility:hidden, opacity:0의 차이는 무엇입니까?",
+      "file": "audio/q-65.mp3"
+    },
+    {
+      "id": "q-66",
+      "title": "Q66. pseudo-class와 pseudo-element의 차이는 무엇입니까?",
+      "file": "audio/q-66.mp3"
+    },
+    {
+      "id": "q-67",
+      "title": "Q67. nth-child와 nth-of-type의 차이는 무엇입니까?",
+      "file": "audio/q-67.mp3"
+    },
+    {
+      "id": "q-68",
+      "title": "Q68. em과 rem의 차이는 무엇입니까?",
+      "file": "audio/q-68.mp3"
+    },
+    {
+      "id": "q-69",
+      "title": "Q69. px를 쓰면 반응형이 아닌가요?",
+      "file": "audio/q-69.mp3"
+    },
+    {
+      "id": "q-70",
+      "title": "Q70. vw와 vh는 무엇입니까?",
+      "file": "audio/q-70.mp3"
+    },
+    {
+      "id": "q-71",
+      "title": "Q71. CSS Custom Property를 설명해 주세요.",
+      "file": "audio/q-71.mp3"
+    },
+    {
+      "id": "q-72",
+      "title": "Q72. CSS 변수와 Sass 변수의 차이는 무엇입니까?",
+      "file": "audio/q-72.mp3"
+    },
+    {
+      "id": "q-73",
+      "title": "Q73. Responsive(반응형) Web이 무엇입니까?",
+      "file": "audio/q-73.mp3"
+    },
+    {
+      "id": "q-74",
+      "title": "Q74. 브레이크포인트는 어떤 기준으로 정합니까?",
+      "file": "audio/q-74.mp3"
+    },
+    {
+      "id": "q-75",
+      "title": "Q75. Mobile First란 무엇입니까?",
+      "file": "audio/q-75.mp3"
+    },
+    {
+      "id": "q-76",
+      "title": "Q76. CSS가 안 먹을 때 어떤 순서로 디버깅합니까?",
+      "file": "audio/q-76.mp3"
+    },
+    {
+      "id": "q-77",
+      "title": "Q77. 모바일에서 가로 스크롤이 생기면 어떻게 디버깅합니까?",
+      "file": "audio/q-77.mp3"
+    },
+    {
+      "id": "q-78",
+      "title": "Q78. Flex에서 text ellipsis가 안 되는 이유는 무엇일 수 있습니까?",
+      "file": "audio/q-78.mp3"
+    },
+    {
+      "id": "q-79",
+      "title": "Q79. hover(마우스 올림 상태) 확대에서 grid가 흔들리지 않게 하려면?",
+      "file": "audio/q-79.mp3"
+    },
+    {
+      "id": "q-80",
+      "title": "Q80. CSS 중복을 리팩터링한다면 어떤 원칙을 쓰겠습니까?",
+      "file": "audio/q-80.mp3"
+    },
+    {
+      "id": "q-81",
+      "title": "Q81. JavaScript는 웹에서 어떤 역할을 합니까?",
+      "file": "audio/q-81.mp3"
+    },
+    {
+      "id": "q-82",
+      "title": "Q82. JavaScript는 어떤 타입 시스템을 가집니까?",
+      "file": "audio/q-82.mp3"
+    },
+    {
+      "id": "q-83",
+      "title": "Q83. var, let, const의 차이는 무엇입니까?",
+      "file": "audio/q-83.mp3"
+    },
+    {
+      "id": "q-84",
+      "title": "Q84. const 객체 내부 값은 변경 가능한가요?",
+      "file": "audio/q-84.mp3"
+    },
+    {
+      "id": "q-85",
+      "title": "Q85. Scope란 무엇입니까?",
+      "file": "audio/q-85.mp3"
+    },
+    {
+      "id": "q-86",
+      "title": "Q86. Lexical Scope란 무엇입니까?",
+      "file": "audio/q-86.mp3"
+    },
+    {
+      "id": "q-87",
+      "title": "Q87. Hoisting이란 무엇입니까?",
+      "file": "audio/q-87.mp3"
+    },
+    {
+      "id": "q-88",
+      "title": "Q88. TDZ란 무엇입니까?",
+      "file": "audio/q-88.mp3"
+    },
+    {
+      "id": "q-89",
+      "title": "Q89. Primitive Type에는 무엇이 있습니까?",
+      "file": "audio/q-89.mp3"
+    },
+    {
+      "id": "q-90",
+      "title": "Q90. Primitive와 Object의 차이는 무엇입니까?",
+      "file": "audio/q-90.mp3"
+    },
+    {
+      "id": "q-91",
+      "title": "Q91. 얕은 복사와 깊은 복사의 차이는?",
+      "file": "audio/q-91.mp3"
+    },
+    {
+      "id": "q-92",
+      "title": "Q92. null과 undefined의 차이는?",
+      "file": "audio/q-92.mp3"
+    },
+    {
+      "id": "q-93",
+      "title": "Q93. ==와 ===의 차이는?",
+      "file": "audio/q-93.mp3"
+    },
+    {
+      "id": "q-94",
+      "title": "Q94. Truthy와 Falsy를 설명해 주세요.",
+      "file": "audio/q-94.mp3"
+    },
+    {
+      "id": "q-95",
+      "title": "Q95. NaN이 무엇입니까?",
+      "file": "audio/q-95.mp3"
+    },
+    {
+      "id": "q-96",
+      "title": "Q96. 함수 선언식과 함수 표현식의 차이는?",
+      "file": "audio/q-96.mp3"
+    },
+    {
+      "id": "q-97",
+      "title": "Q97. Arrow Function은 무엇입니까?",
+      "file": "audio/q-97.mp3"
+    },
+    {
+      "id": "q-98",
+      "title": "Q98. this는 무엇입니까?",
+      "file": "audio/q-98.mp3"
+    },
+    {
+      "id": "q-99",
+      "title": "Q99. jQuery 이벤트에서 arrow function을 왜 조심해야 합니까?",
+      "file": "audio/q-99.mp3"
+    },
+    {
+      "id": "q-100",
+      "title": "Q100. Closure란 무엇입니까?",
+      "file": "audio/q-100.mp3"
+    },
+    {
+      "id": "q-101",
+      "title": "Q101. Callback Function이란 무엇입니까?",
+      "file": "audio/q-101.mp3"
+    },
+    {
+      "id": "q-102",
+      "title": "Q102. 배열과 객체의 차이는 무엇입니까?",
+      "file": "audio/q-102.mp3"
+    },
+    {
+      "id": "q-103",
+      "title": "Q103. forEach()는 무엇입니까?",
+      "file": "audio/q-103.mp3"
+    },
+    {
+      "id": "q-104",
+      "title": "Q104. map()은 무엇입니까?",
+      "file": "audio/q-104.mp3"
+    },
+    {
+      "id": "q-105",
+      "title": "Q105. map과 forEach의 차이는?",
+      "file": "audio/q-105.mp3"
+    },
+    {
+      "id": "q-106",
+      "title": "Q106. filter()는 무엇입니까?",
+      "file": "audio/q-106.mp3"
+    },
+    {
+      "id": "q-107",
+      "title": "Q107. find()는 무엇입니까?",
+      "file": "audio/q-107.mp3"
+    },
+    {
+      "id": "q-108",
+      "title": "Q108. some()과 every()의 차이는?",
+      "file": "audio/q-108.mp3"
+    },
+    {
+      "id": "q-109",
+      "title": "Q109. reduce()는 무엇입니까?",
+      "file": "audio/q-109.mp3"
+    },
+    {
+      "id": "q-110",
+      "title": "Q110. slice()와 splice()의 차이는?",
+      "file": "audio/q-110.mp3"
+    },
+    {
+      "id": "q-111",
+      "title": "Q111. Spread Syntax는 무엇입니까?",
+      "file": "audio/q-111.mp3"
+    },
+    {
+      "id": "q-112",
+      "title": "Q112. Rest Parameter는 무엇입니까?",
+      "file": "audio/q-112.mp3"
+    },
+    {
+      "id": "q-113",
+      "title": "Q113. Destructuring은 무엇입니까?",
+      "file": "audio/q-113.mp3"
+    },
+    {
+      "id": "q-114",
+      "title": "Q114. Optional Chaining은 무엇입니까?",
+      "file": "audio/q-114.mp3"
+    },
+    {
+      "id": "q-115",
+      "title": "Q115. Nullish Coalescing(널 병합 연산자) ??는 무엇입니까?",
+      "file": "audio/q-115.mp3"
+    },
+    {
+      "id": "q-116",
+      "title": "Q116. DOM이 무엇입니까?",
+      "file": "audio/q-116.mp3"
+    },
+    {
+      "id": "q-117",
+      "title": "Q117. HTML과 DOM은 같은 것입니까?",
+      "file": "audio/q-117.mp3"
+    },
+    {
+      "id": "q-118",
+      "title": "Q118. querySelector와 querySelectorAll의 차이는?",
+      "file": "audio/q-118.mp3"
+    },
+    {
+      "id": "q-119",
+      "title": "Q119. NodeList와 Array는 같은가요?",
+      "file": "audio/q-119.mp3"
+    },
+    {
+      "id": "q-120",
+      "title": "Q120. classList는 무엇입니까?",
+      "file": "audio/q-120.mp3"
+    },
+    {
+      "id": "q-121",
+      "title": "Q121. innerHTML과 textContent의 차이는?",
+      "file": "audio/q-121.mp3"
+    },
+    {
+      "id": "q-122",
+      "title": "Q122. Event란 무엇입니까?",
+      "file": "audio/q-122.mp3"
+    },
+    {
+      "id": "q-123",
+      "title": "Q123. Event(이벤트) Bubbling이 무엇입니까?",
+      "file": "audio/q-123.mp3"
+    },
+    {
+      "id": "q-124",
+      "title": "Q124. Event(이벤트) Capturing이 무엇입니까?",
+      "file": "audio/q-124.mp3"
+    },
+    {
+      "id": "q-125",
+      "title": "Q125. event.target과 event.currentTarget의 차이는?",
+      "file": "audio/q-125.mp3"
+    },
+    {
+      "id": "q-126",
+      "title": "Q126. Event(이벤트) Delegation이 무엇입니까?",
+      "file": "audio/q-126.mp3"
+    },
+    {
+      "id": "q-127",
+      "title": "Q127. preventDefault와 stopPropagation의 차이는?",
+      "file": "audio/q-127.mp3"
+    },
+    {
+      "id": "q-128",
+      "title": "Q128. DOMContentLoaded와 load의 차이는?",
+      "file": "audio/q-128.mp3"
+    },
+    {
+      "id": "q-129",
+      "title": "Q129. 동기와 비동기의 차이는?",
+      "file": "audio/q-129.mp3"
+    },
+    {
+      "id": "q-130",
+      "title": "Q130. Call Stack이 무엇입니까?",
+      "file": "audio/q-130.mp3"
+    },
+    {
+      "id": "q-131",
+      "title": "Q131. Event(이벤트) Loop를 간단히 설명해 주세요.",
+      "file": "audio/q-131.mp3"
+    },
+    {
+      "id": "q-132",
+      "title": "Q132. Promise란 무엇입니까?",
+      "file": "audio/q-132.mp3"
+    },
+    {
+      "id": "q-133",
+      "title": "Q133. async/await는 무엇입니까?",
+      "file": "audio/q-133.mp3"
+    },
+    {
+      "id": "q-134",
+      "title": "Q134. fetch에서 404면 자동으로 catch로 갑니까?",
+      "file": "audio/q-134.mp3"
+    },
+    {
+      "id": "q-135",
+      "title": "Q135. JSON이 무엇입니까?",
+      "file": "audio/q-135.mp3"
+    },
+    {
+      "id": "q-136",
+      "title": "Q136. localStorage란 무엇입니까?",
+      "file": "audio/q-136.mp3"
+    },
+    {
+      "id": "q-137",
+      "title": "Q137. 객체를 localStorage에 저장하려면?",
+      "file": "audio/q-137.mp3"
+    },
+    {
+      "id": "q-138",
+      "title": "Q138. localStorage와 sessionStorage의 차이는?",
+      "file": "audio/q-138.mp3"
+    },
+    {
+      "id": "q-139",
+      "title": "Q139. Cookie와 localStorage의 차이는?",
+      "file": "audio/q-139.mp3"
+    },
+    {
+      "id": "q-140",
+      "title": "Q140. Debounce란 무엇입니까?",
+      "file": "audio/q-140.mp3"
+    },
+    {
+      "id": "q-141",
+      "title": "Q141. Throttle이란 무엇입니까?",
+      "file": "audio/q-141.mp3"
+    },
+    {
+      "id": "q-142",
+      "title": "Q142. setTimeout은 정확히 지정한 시간 후 실행됩니까?",
+      "file": "audio/q-142.mp3"
+    },
+    {
+      "id": "q-143",
+      "title": "Q143. Form Validation은 frontend만 하면 됩니까?",
+      "file": "audio/q-143.mp3"
+    },
+    {
+      "id": "q-144",
+      "title": "Q144. JS에서 style 직접 변경과 class 변경 중 어떤 게 좋습니까?",
+      "file": "audio/q-144.mp3"
+    },
+    {
+      "id": "q-145",
+      "title": "Q145. Modal을 구현할 때 무엇을 고려합니까?",
+      "file": "audio/q-145.mp3"
+    },
+    {
+      "id": "q-146",
+      "title": "Q146. Accordion(접고 펼치는 UI(사용자 인터페이스)) 구현에서 중요한 것은?",
+      "file": "audio/q-146.mp3"
+    },
+    {
+      "id": "q-147",
+      "title": "Q147. Tab UI를 구현할 때 무엇을 고려합니까?",
+      "file": "audio/q-147.mp3"
+    },
+    {
+      "id": "q-148",
+      "title": "Q148. 동적으로 추가한 요소에 이벤트가 안 붙는 이유는?",
+      "file": "audio/q-148.mp3"
+    },
+    {
+      "id": "q-149",
+      "title": "Q149. Cannot read properties(속성) of null이 나오면 무엇을 봅니까?",
+      "file": "audio/q-149.mp3"
+    },
+    {
+      "id": "q-150",
+      "title": "Q150. 이벤트가 두 번 실행되면 무엇을 확인합니까?",
+      "file": "audio/q-150.mp3"
+    },
+    {
+      "id": "q-151",
+      "title": "Q151. XSS가 무엇입니까?",
+      "file": "audio/q-151.mp3"
+    },
+    {
+      "id": "q-152",
+      "title": "Q152. setTimeout과 Promise가 함께 있을 때 실행 순서는?",
+      "file": "audio/q-152.mp3"
+    },
+    {
+      "id": "q-153",
+      "title": "Q153. jQuery는 무엇입니까?",
+      "file": "audio/q-153.mp3"
+    },
+    {
+      "id": "q-154",
+      "title": "Q154. $()는 무엇입니까?",
+      "file": "audio/q-154.mp3"
+    },
+    {
+      "id": "q-155",
+      "title": "Q155. jQuery 객체와 DOM(문서 객체 모델) 객체는 같은가요?",
+      "file": "audio/q-155.mp3"
+    },
+    {
+      "id": "q-156",
+      "title": "Q156. .on()은 무엇입니까?",
+      "file": "audio/q-156.mp3"
+    },
+    {
+      "id": "q-157",
+      "title": "Q157. .click()과 .on('click')의 차이는?",
+      "file": "audio/q-157.mp3"
+    },
+    {
+      "id": "q-158",
+      "title": "Q158. jQuery Event(이벤트) Delegation(이벤트 위임) 코드를 작성해 보세요.",
+      "file": "audio/q-158.mp3"
+    },
+    {
+      "id": "q-159",
+      "title": "Q159. .attr()과 .prop()의 차이는?",
+      "file": "audio/q-159.mp3"
+    },
+    {
+      "id": "q-160",
+      "title": "Q160. .find()와 .children()의 차이는?",
+      "file": "audio/q-160.mp3"
+    },
+    {
+      "id": "q-161",
+      "title": "Q161. .parent()와 .parents()의 차이는?",
+      "file": "audio/q-161.mp3"
+    },
+    {
+      "id": "q-162",
+      "title": "Q162. .closest()는 무엇입니까?",
+      "file": "audio/q-162.mp3"
+    },
+    {
+      "id": "q-163",
+      "title": "Q163. .eq()는 무엇입니까?",
+      "file": "audio/q-163.mp3"
+    },
+    {
+      "id": "q-164",
+      "title": "Q164. .each()는 무엇입니까?",
+      "file": "audio/q-164.mp3"
+    },
+    {
+      "id": "q-165",
+      "title": "Q165. jQuery animation을 무조건 써야 합니까?",
+      "file": "audio/q-165.mp3"
+    },
+    {
+      "id": "q-166",
+      "title": "Q166. jQuery this와 arrow function의 관계는?",
+      "file": "audio/q-166.mp3"
+    },
+    {
+      "id": "q-167",
+      "title": "Q167. jQuery가 있는데 Vanilla JS를 왜 알아야 합니까?",
+      "file": "audio/q-167.mp3"
+    },
+    {
+      "id": "q-168",
+      "title": "Q168. 웹접근성이란 무엇입니까?",
+      "file": "audio/q-168.mp3"
+    },
+    {
+      "id": "q-169",
+      "title": "Q169. WCAG가 무엇입니까?",
+      "file": "audio/q-169.mp3"
+    },
+    {
+      "id": "q-170",
+      "title": "Q170. 키보드 접근성이란 무엇입니까?",
+      "file": "audio/q-170.mp3"
+    },
+    {
+      "id": "q-171",
+      "title": "Q171. tabindex=0과 -1의 차이는?",
+      "file": "audio/q-171.mp3"
+    },
+    {
+      "id": "q-172",
+      "title": "Q172. focus와 focus-visible의 차이는?",
+      "file": "audio/q-172.mp3"
+    },
+    {
+      "id": "q-173",
+      "title": "Q173. ARIA란 무엇입니까?",
+      "file": "audio/q-173.mp3"
+    },
+    {
+      "id": "q-174",
+      "title": "Q174. role=\"button\"을 div에 붙이면 button과 같습니까?",
+      "file": "audio/q-174.mp3"
+    },
+    {
+      "id": "q-175",
+      "title": "Q175. aria-expanded는 무엇입니까?",
+      "file": "audio/q-175.mp3"
+    },
+    {
+      "id": "q-176",
+      "title": "Q176. aria-controls는 무엇입니까?",
+      "file": "audio/q-176.mp3"
+    },
+    {
+      "id": "q-177",
+      "title": "Q177. aria-label과 aria-labelledby의 차이는?",
+      "file": "audio/q-177.mp3"
+    },
+    {
+      "id": "q-178",
+      "title": "Q178. aria-hidden=true는 무엇입니까?",
+      "file": "audio/q-178.mp3"
+    },
+    {
+      "id": "q-179",
+      "title": "Q179. Skip Link가 무엇입니까?",
+      "file": "audio/q-179.mp3"
+    },
+    {
+      "id": "q-180",
+      "title": "Q180. Heading(제목 계층) 구조가 왜 중요합니까?",
+      "file": "audio/q-180.mp3"
+    },
+    {
+      "id": "q-181",
+      "title": "Q181. Modal(모달 창) 접근성에서 중요한 것은?",
+      "file": "audio/q-181.mp3"
+    },
+    {
+      "id": "q-182",
+      "title": "Q182. 웹접근성 자동검사만으로 충분합니까?",
+      "file": "audio/q-182.mp3"
+    },
+    {
+      "id": "q-183",
+      "title": "Q183. 웹표준이란 무엇입니까?",
+      "file": "audio/q-183.mp3"
+    },
+    {
+      "id": "q-184",
+      "title": "Q184. HTML Validator는 왜 사용합니까?",
+      "file": "audio/q-184.mp3"
+    },
+    {
+      "id": "q-185",
+      "title": "Q185. lang 속성은 왜 중요합니까?",
+      "file": "audio/q-185.mp3"
+    },
+    {
+      "id": "q-186",
+      "title": "Q186. 크로스브라우징이 무엇입니까?",
+      "file": "audio/q-186.mp3"
+    },
+    {
+      "id": "q-187",
+      "title": "Q187. 브라우저마다 화면이 다른 이유는?",
+      "file": "audio/q-187.mp3"
+    },
+    {
+      "id": "q-188",
+      "title": "Q188. Vendor Prefix란 무엇입니까?",
+      "file": "audio/q-188.mp3"
+    },
+    {
+      "id": "q-189",
+      "title": "Q189. Progressive Enhancement란?",
+      "file": "audio/q-189.mp3"
+    },
+    {
+      "id": "q-190",
+      "title": "Q190. Graceful Degradation이란?",
+      "file": "audio/q-190.mp3"
+    },
+    {
+      "id": "q-191",
+      "title": "Q191. Safari에서만 CSS가 깨지면 어떻게 합니까?",
+      "file": "audio/q-191.mp3"
+    },
+    {
+      "id": "q-192",
+      "title": "Q192. 웹 성능이 왜 중요합니까?",
+      "file": "audio/q-192.mp3"
+    },
+    {
+      "id": "q-193",
+      "title": "Q193. Lighthouse는 무엇입니까?",
+      "file": "audio/q-193.mp3"
+    },
+    {
+      "id": "q-194",
+      "title": "Q194. Core Web Vitals를 설명해 주세요.",
+      "file": "audio/q-194.mp3"
+    },
+    {
+      "id": "q-195",
+      "title": "Q195. LCP를 개선하려면?",
+      "file": "audio/q-195.mp3"
+    },
+    {
+      "id": "q-196",
+      "title": "Q196. CLS가 발생하는 대표 원인은?",
+      "file": "audio/q-196.mp3"
+    },
+    {
+      "id": "q-197",
+      "title": "Q197. 이미지 최적화 방법은?",
+      "file": "audio/q-197.mp3"
+    },
+    {
+      "id": "q-198",
+      "title": "Q198. Lazy Loading이 무엇입니까?",
+      "file": "audio/q-198.mp3"
+    },
+    {
+      "id": "q-199",
+      "title": "Q199. CSS가 render blocking인 이유는?",
+      "file": "audio/q-199.mp3"
+    },
+    {
+      "id": "q-200",
+      "title": "Q200. @import가 성능상 문제가 될 수 있는 이유는?",
+      "file": "audio/q-200.mp3"
+    },
+    {
+      "id": "q-201",
+      "title": "Q201. Reflow와 Repaint의 차이는?",
+      "file": "audio/q-201.mp3"
+    },
+    {
+      "id": "q-202",
+      "title": "Q202. Layout(레이아웃) Thrashing이 무엇입니까?",
+      "file": "audio/q-202.mp3"
+    },
+    {
+      "id": "q-203",
+      "title": "Q203. SEO란 무엇입니까?",
+      "file": "audio/q-203.mp3"
+    },
+    {
+      "id": "q-204",
+      "title": "Q204. title이 왜 중요합니까?",
+      "file": "audio/q-204.mp3"
+    },
+    {
+      "id": "q-205",
+      "title": "Q205. meta description이 ranking을 직접 올립니까?",
+      "file": "audio/q-205.mp3"
+    },
+    {
+      "id": "q-206",
+      "title": "Q206. alt를 SEO(검색엔진 최적화) 키워드 채우기로 써도 됩니까?",
+      "file": "audio/q-206.mp3"
+    },
+    {
+      "id": "q-207",
+      "title": "Q207. Canonical이 무엇입니까?",
+      "file": "audio/q-207.mp3"
+    },
+    {
+      "id": "q-208",
+      "title": "Q208. Sitemap과 robots.txt의 차이는?",
+      "file": "audio/q-208.mp3"
+    },
+    {
+      "id": "q-209",
+      "title": "Q209. Git이 무엇입니까?",
+      "file": "audio/q-209.mp3"
+    },
+    {
+      "id": "q-210",
+      "title": "Q210. Git과 GitHub의 차이는?",
+      "file": "audio/q-210.mp3"
+    },
+    {
+      "id": "q-211",
+      "title": "Q211. Working Directory(작업 디렉터리), Staging Area(스테이징 영역), Repository(저장소) 차이는?",
+      "file": "audio/q-211.mp3"
+    },
+    {
+      "id": "q-212",
+      "title": "Q212. commit과 push의 차이는?",
+      "file": "audio/q-212.mp3"
+    },
+    {
+      "id": "q-213",
+      "title": "Q213. pull과 fetch의 차이는?",
+      "file": "audio/q-213.mp3"
+    },
+    {
+      "id": "q-214",
+      "title": "Q214. branch란 무엇입니까?",
+      "file": "audio/q-214.mp3"
+    },
+    {
+      "id": "q-215",
+      "title": "Q215. merge(병합) conflict는 왜 생깁니까?",
+      "file": "audio/q-215.mp3"
+    },
+    {
+      "id": "q-216",
+      "title": "Q216. conflict가 나면 어떻게 해결합니까?",
+      "file": "audio/q-216.mp3"
+    },
+    {
+      "id": "q-217",
+      "title": "Q217. reset과 revert의 차이는?",
+      "file": "audio/q-217.mp3"
+    },
+    {
+      "id": "q-218",
+      "title": "Q218. git status와 git diff를 왜 자주 봅니까?",
+      "file": "audio/q-218.mp3"
+    },
+    {
+      "id": "q-219",
+      "title": "Q219. 좋은 commit(변경 이력 저장) 단위란 무엇입니까?",
+      "file": "audio/q-219.mp3"
+    },
+    {
+      "id": "q-220",
+      "title": "Q220. JW Anderson 프로젝트를 30초 안에 설명해 주세요.",
+      "file": "audio/q-220.mp3"
+    },
+    {
+      "id": "q-221",
+      "title": "Q221. JW Anderson을 1분 버전으로 설명해 주세요.",
+      "file": "audio/q-221.mp3"
+    },
+    {
+      "id": "q-222",
+      "title": "Q222. 왜 392페이지를 만들었습니까?",
+      "file": "audio/q-222.mp3"
+    },
+    {
+      "id": "q-223",
+      "title": "Q223. 실무에서도 HTML 파일 392개를 만들 건가요?",
+      "file": "audio/q-223.mp3"
+    },
+    {
+      "id": "q-224",
+      "title": "Q224. 392페이지면 비효율적인 프로젝트 아닌가요?",
+      "file": "audio/q-224.mp3"
+    },
+    {
+      "id": "q-225",
+      "title": "Q225. CSS가 15,208줄이 된 건 처음 코드를 잘못 짠 것 아닌가요?",
+      "file": "audio/q-225.mp3"
+    },
+    {
+      "id": "q-226",
+      "title": "Q226. 왜 처음부터 base(기본) + override를 쓰지 않았습니까?",
+      "file": "audio/q-226.mp3"
+    },
+    {
+      "id": "q-227",
+      "title": "Q227. 42.1% 감소가 실제로 코드 품질 향상을 의미합니까?",
+      "file": "audio/q-227.mp3"
+    },
+    {
+      "id": "q-228",
+      "title": "Q228. CSS를 줄이면 읽기 어려워질 수도 있지 않습니까?",
+      "file": "audio/q-228.mp3"
+    },
+    {
+      "id": "q-229",
+      "title": "Q229. :is()를 왜 사용했습니까?",
+      "file": "audio/q-229.mp3"
+    },
+    {
+      "id": "q-230",
+      "title": "Q230. 선택자 40개 유실 사고를 설명해 주세요.",
+      "file": "audio/q-230.mp3"
+    },
+    {
+      "id": "q-231",
+      "title": "Q231. AI 때문에 사고가 났다면 AI를 쓰지 않는 게 낫지 않았습니까?",
+      "file": "audio/q-231.mp3"
+    },
+    {
+      "id": "q-232",
+      "title": "Q232. JW와 HOOT UP의 관계를 설명해 주세요.",
+      "file": "audio/q-232.mp3"
+    },
+    {
+      "id": "q-233",
+      "title": "Q233. JW에서 JavaScript는 어느 정도 직접 구현했습니까?",
+      "file": "audio/q-233.mp3"
+    },
+    {
+      "id": "q-234",
+      "title": "Q234. 왜 jQuery를 사용했습니까?",
+      "file": "audio/q-234.mp3"
+    },
+    {
+      "id": "q-235",
+      "title": "Q235. JW CSS 변수 체계를 설명해 주세요.",
+      "file": "audio/q-235.mp3"
+    },
+    {
+      "id": "q-236",
+      "title": "Q236. JW에서 semantic(의미론적) token까지 완성했습니까?",
+      "file": "audio/q-236.mp3"
+    },
+    {
+      "id": "q-237",
+      "title": "Q237. JW에서 가장 잘했다고 생각하는 것은?",
+      "file": "audio/q-237.mp3"
+    },
+    {
+      "id": "q-238",
+      "title": "Q238. JW에서 가장 부족했던 점은?",
+      "file": "audio/q-238.mp3"
+    },
+    {
+      "id": "q-239",
+      "title": "Q239. JW를 다시 만든다면 무엇을 바꾸겠습니까?",
+      "file": "audio/q-239.mp3"
+    },
+    {
+      "id": "q-240",
+      "title": "Q240. HOOT UP을 30초 안에 설명해 주세요.",
+      "file": "audio/q-240.mp3"
+    },
+    {
+      "id": "q-241",
+      "title": "Q241. 결국 AI가 만든 사이트 아닌가요?",
+      "file": "audio/q-241.mp3"
+    },
+    {
+      "id": "q-242",
+      "title": "Q242. 그럼 웹퍼블리셔 포트폴리오라고 할 수 있습니까?",
+      "file": "audio/q-242.mp3"
+    },
+    {
+      "id": "q-243",
+      "title": "Q243. AI에게 코딩을 맡길 거면 HTML/CSS/JS를 배울 필요가 있습니까?",
+      "file": "audio/q-243.mp3"
+    },
+    {
+      "id": "q-244",
+      "title": "Q244. 359건은 무엇을 의미합니까?",
+      "file": "audio/q-244.mp3"
+    },
+    {
+      "id": "q-245",
+      "title": "Q245. 359건이나 틀렸으면 AI가 실패한 것 아닌가요?",
+      "file": "audio/q-245.mp3"
+    },
+    {
+      "id": "q-246",
+      "title": "Q246. AI 완료보고 오류 사례를 하나 설명해 주세요.",
+      "file": "audio/q-246.mp3"
+    },
+    {
+      "id": "q-247",
+      "title": "Q247. 또 다른 완료보고 오류 사례는?",
+      "file": "audio/q-247.mp3"
+    },
+    {
+      "id": "q-248",
+      "title": "Q248. AI 검수에 AI를 쓰는 게 신뢰할 수 있습니까?",
+      "file": "audio/q-248.mp3"
+    },
+    {
+      "id": "q-249",
+      "title": "Q249. 본인이 직접 세지 않았는데 359건을 믿을 수 있습니까?",
+      "file": "audio/q-249.mp3"
+    },
+    {
+      "id": "q-250",
+      "title": "Q250. 숫자가 잘못된 적도 있습니까?",
+      "file": "audio/q-250.mp3"
+    },
+    {
+      "id": "q-251",
+      "title": "Q251. 강의 상세를 152개 다 만들지 않은 이유는?",
+      "file": "audio/q-251.mp3"
+    },
+    {
+      "id": "q-252",
+      "title": "Q252. JW에서는 392개 만들고 HOOT UP에서는 반복을 줄인 이유는?",
+      "file": "audio/q-252.mp3"
+    },
+    {
+      "id": "q-253",
+      "title": "Q253. HOOT UP에서 본인이 설계한 것은 무엇입니까?",
+      "file": "audio/q-253.mp3"
+    },
+    {
+      "id": "q-254",
+      "title": "Q254. HOOT UP에서 Figma prototype까지 만들었습니까?",
+      "file": "audio/q-254.mp3"
+    },
+    {
+      "id": "q-255",
+      "title": "Q255. 사전 PRD와 사후 문서를 구분한 이유는?",
+      "file": "audio/q-255.mp3"
+    },
+    {
+      "id": "q-256",
+      "title": "Q256. Defect와 Change의 차이는?",
+      "file": "audio/q-256.mp3"
+    },
+    {
+      "id": "q-257",
+      "title": "Q257. 404 링크가 3,389건이나 있었다는 게 무슨 뜻입니까?",
+      "file": "audio/q-257.mp3"
+    },
+    {
+      "id": "q-258",
+      "title": "Q258. Lighthouse(웹 품질 자동 진단 도구) 접근성 100이면 완벽합니까?",
+      "file": "audio/q-258.mp3"
+    },
+    {
+      "id": "q-259",
+      "title": "Q259. hardcoded(값을 직접 입력한) color를 끝까지 0으로 못 만든 이유는?",
+      "file": "audio/q-259.mp3"
+    },
+    {
+      "id": "q-260",
+      "title": "Q260. semantic(의미론적) token(의미 기반 토큰) 전환이 처음 7%에서 정체된 이유는?",
+      "file": "audio/q-260.mp3"
+    },
+    {
+      "id": "q-261",
+      "title": "Q261. AI에게 규칙을 한 번 말했는데 왜 계속 안 지켜졌습니까?",
+      "file": "audio/q-261.mp3"
+    },
+    {
+      "id": "q-262",
+      "title": "Q262. AI에게 지시할 때 어떻게 했습니까?",
+      "file": "audio/q-262.mp3"
+    },
+    {
+      "id": "q-263",
+      "title": "Q263. AI의 의견을 받아들인 적도 있습니까?",
+      "file": "audio/q-263.mp3"
+    },
+    {
+      "id": "q-264",
+      "title": "Q264. 사람이 항상 AI보다 잘 판단한다고 생각합니까?",
+      "file": "audio/q-264.mp3"
+    },
+    {
+      "id": "q-265",
+      "title": "Q265. AI 시대 웹퍼블리셔의 역할은 무엇이라고 봅니까?",
+      "file": "audio/q-265.mp3"
+    },
+    {
+      "id": "q-266",
+      "title": "Q266. HOOT UP에서 가장 큰 성과는?",
+      "file": "audio/q-266.mp3"
+    },
+    {
+      "id": "q-267",
+      "title": "Q267. HOOT UP에서 가장 큰 실패는?",
+      "file": "audio/q-267.mp3"
+    },
+    {
+      "id": "q-268",
+      "title": "Q268. HOOT UP을 다시 만든다면 무엇을 바꾸겠습니까?",
+      "file": "audio/q-268.mp3"
+    },
+    {
+      "id": "q-269",
+      "title": "Q269. HTML에서 div+onclick을 a/button으로 바꿔야 하는 이유는?",
+      "file": "audio/q-269.mp3"
+    },
+    {
+      "id": "q-270",
+      "title": "Q270. 로그인 폼의 대표적인 마크업 문제를 찾아보세요.",
+      "file": "audio/q-270.mp3"
+    },
+    {
+      "id": "q-271",
+      "title": "Q271. 링크 안에 button이 들어간 카드 구조의 문제는?",
+      "file": "audio/q-271.mp3"
+    },
+    {
+      "id": "q-272",
+      "title": "Q272. width:100% + padding(안쪽 여백) 때문에 부모보다 넓어지는 이유는?",
+      "file": "audio/q-272.mp3"
+    },
+    {
+      "id": "q-273",
+      "title": "Q273. Flex(플렉스) 텍스트 말줄임이 안 될 때 무엇을 봅니까?",
+      "file": "audio/q-273.mp3"
+    },
+    {
+      "id": "q-274",
+      "title": "Q274. Grid(그리드) 4열 코드를 더 재사용성 있게 작성하려면?",
+      "file": "audio/q-274.mp3"
+    },
+    {
+      "id": "q-275",
+      "title": "Q275. 반응형에서 고정 width 1200px/375px의 문제는?",
+      "file": "audio/q-275.mp3"
+    },
+    {
+      "id": "q-276",
+      "title": "Q276. 100vw + padding이 overflow를 만들 수 있는 이유는?",
+      "file": "audio/q-276.mp3"
+    },
+    {
+      "id": "q-277",
+      "title": "Q277. 강한 ID selector(선택자) 때문에 active class가 안 먹는 문제를 어떻게 해결합니까?",
+      "file": "audio/q-277.mp3"
+    },
+    {
+      "id": "q-278",
+      "title": "Q278. :is()로 중복을 합칠 때 무엇을 검증해야 합니까?",
+      "file": "audio/q-278.mp3"
+    },
+    {
+      "id": "q-279",
+      "title": "Q279. querySelector 결과가 null인 대표 원인은?",
+      "file": "audio/q-279.mp3"
+    },
+    {
+      "id": "q-280",
+      "title": "Q280. head에서 script를 실행해 DOM(문서 객체 모델) 요소가 null이면 어떻게 합니까?",
+      "file": "audio/q-280.mp3"
+    },
+    {
+      "id": "q-281",
+      "title": "Q281. for(var i...) + setTimeout에서 3,3,3이 나오는 이유는?",
+      "file": "audio/q-281.mp3"
+    },
+    {
+      "id": "q-282",
+      "title": "Q282. 동적 버튼에 기존 click handler가 안 붙으면?",
+      "file": "audio/q-282.mp3"
+    },
+    {
+      "id": "q-283",
+      "title": "Q283. JS에서 여러 style을 직접 바꾸는 코드를 개선하려면?",
+      "file": "audio/q-283.mp3"
+    },
+    {
+      "id": "q-284",
+      "title": "Q284. Menu 토글 접근성에서 추가할 것은?",
+      "file": "audio/q-284.mp3"
+    },
+    {
+      "id": "q-285",
+      "title": "Q285. Modal(모달 창) 코드리뷰 시 무엇을 봅니까?",
+      "file": "audio/q-285.mp3"
+    },
+    {
+      "id": "q-286",
+      "title": "Q286. 사용자 입력을 innerHTML에 넣는 코드의 문제는?",
+      "file": "audio/q-286.mp3"
+    },
+    {
+      "id": "q-287",
+      "title": "Q287. fetch(원격 변경 조회·가져오기) 코드리뷰에서 response.ok를 왜 봅니까?",
+      "file": "audio/q-287.mp3"
+    },
+    {
+      "id": "q-288",
+      "title": "Q288. jQuery arrow callback에서 $(this)가 안 되는 이유는?",
+      "file": "audio/q-288.mp3"
+    },
+    {
+      "id": "q-289",
+      "title": "Q289. 이미지를 CSS로 300px로 줄이면 네트워크 용량도 줄어듭니까?",
+      "file": "audio/q-289.mp3"
+    },
+    {
+      "id": "q-290",
+      "title": "Q290. CLS를 줄이기 위해 이미지에서 무엇을 할 수 있습니까?",
+      "file": "audio/q-290.mp3"
+    },
+    {
+      "id": "q-291",
+      "title": "Q291. scroll 이벤트에서 top을 계속 바꾸는 코드의 문제는?",
+      "file": "audio/q-291.mp3"
+    },
+    {
+      "id": "q-292",
+      "title": "Q292. Git에서 이미 공유된 잘못된 commit을 되돌릴 때?",
+      "file": "audio/q-292.mp3"
+    },
+    {
+      "id": "q-293",
+      "title": "Q293. Git conflict(충돌) marker를 보면 어떻게 해결합니까?",
+      "file": "audio/q-293.mp3"
+    },
+    {
+      "id": "q-294",
+      "title": "Q294. AI가 “모든 .old-price 제거 완료”라고 했을 때 어떻게 검수합니까?",
+      "file": "audio/q-294.mp3"
+    },
+    {
+      "id": "q-295",
+      "title": "Q295. primitive(원시값) token으로 바뀌면 design token(디자인 토큰) 적용 완료라고 볼 수 있습니까?",
+      "file": "audio/q-295.mp3"
+    },
+    {
+      "id": "q-296",
+      "title": "Q296. Lighthouse(웹 품질 자동 진단 도구) Accessibility(접근성) 100이면 문제 없습니까?",
+      "file": "audio/q-296.mp3"
+    },
+    {
+      "id": "q-297",
+      "title": "Q297. 상품 카드 종합 코드리뷰에서 어떤 순서로 봅니까?",
+      "file": "audio/q-297.mp3"
+    },
+    {
+      "id": "q-298",
+      "title": "Q298. 실기에서 모르는 문제를 만나면 어떻게 대응합니까?",
+      "file": "audio/q-298.mp3"
+    },
+    {
+      "id": "1-버튼-클릭-class-toggle",
+      "title": "1. 버튼 클릭 → class toggle",
+      "file": "audio/1-버튼-클릭-class-toggle.mp3"
+    },
+    {
+      "id": "2-메뉴-토글-aria-expanded",
+      "title": "2. 메뉴 토글 + aria-expanded",
+      "file": "audio/2-메뉴-토글-aria-expanded.mp3"
+    },
+    {
+      "id": "3-탭-active-처리",
+      "title": "3. 탭 active 처리",
+      "file": "audio/3-탭-active-처리.mp3"
+    },
+    {
+      "id": "4-이벤트-위임",
+      "title": "4. 이벤트 위임",
+      "file": "audio/4-이벤트-위임.mp3"
+    },
+    {
+      "id": "5-배열-filter",
+      "title": "5. 배열 filter",
+      "file": "audio/5-배열-filter.mp3"
+    },
+    {
+      "id": "6-배열-map",
+      "title": "6. 배열 map",
+      "file": "audio/6-배열-map.mp3"
+    },
+    {
+      "id": "7-find",
+      "title": "7. find",
+      "file": "audio/7-find.mp3"
+    },
+    {
+      "id": "8-reduce-장바구니-총액",
+      "title": "8. reduce 장바구니 총액",
+      "file": "audio/8-reduce-장바구니-총액.mp3"
+    },
+    {
+      "id": "9-form-validation",
+      "title": "9. form validation",
+      "file": "audio/9-form-validation.mp3"
+    },
+    {
+      "id": "10-localstorage-로컬-저장소",
+      "title": "10. localStorage(로컬 저장소)",
+      "file": "audio/10-localstorage-로컬-저장소.mp3"
+    },
+    {
+      "id": "11-fetch-원격-변경-조회-가져오기-async-await-비동기-처리-문법",
+      "title": "11. fetch(원격 변경 조회·가져오기) + async/await(비동기 처리 문법)",
+      "file": "audio/11-fetch-원격-변경-조회-가져오기-async-await-비동기-처리-문법.mp3"
+    },
+    {
+      "id": "12-jquery-event-delegation-이벤트-위임",
+      "title": "12. jQuery event delegation(이벤트 위임)",
+      "file": "audio/12-jquery-event-delegation-이벤트-위임.mp3"
+    },
+    {
+      "id": "jw-anderson",
+      "title": "JW Anderson",
+      "file": "audio/jw-anderson.mp3"
+    },
+    {
+      "id": "hoot-up",
+      "title": "HOOT UP",
+      "file": "audio/hoot-up.mp3"
+    }
+  ]
+}
