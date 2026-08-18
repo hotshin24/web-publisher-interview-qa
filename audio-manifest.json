@@ -1561,6 +1561,506 @@
       "id": "hoot-up",
       "title": "HOOT UP",
       "file": "audio/hoot-up.mp3"
+    },
+    {
+      "id": "q-299",
+      "title": "Q299. 시맨틱 HTML(semantic HTML)을 사용하는 이유는?",
+      "file": "audio/q-299.mp3"
+    },
+    {
+      "id": "q-300",
+      "title": "Q300. 상품 상세 HTML이 반복되는 정적 구조의 장단점은?",
+      "file": "audio/q-300.mp3"
+    },
+    {
+      "id": "q-301",
+      "title": "Q301. 상품 이미지 `alt`가 중요한 이유는?",
+      "file": "audio/q-301.mp3"
+    },
+    {
+      "id": "q-302",
+      "title": "Q302. `button`과 `a`를 어떻게 구분합니까?",
+      "file": "audio/q-302.mp3"
+    },
+    {
+      "id": "q-303",
+      "title": "Q303. `label`과 `input`을 연결하는 이유는?",
+      "file": "audio/q-303.mp3"
+    },
+    {
+      "id": "q-304",
+      "title": "Q304. HTML `required`와 JavaScript 검증을 함께 쓰는 이유는?",
+      "file": "audio/q-304.mp3"
+    },
+    {
+      "id": "q-305",
+      "title": "Q305. 상품 옵션에 radio를 사용할 수 있는 이유는?",
+      "file": "audio/q-305.mp3"
+    },
+    {
+      "id": "q-306",
+      "title": "Q306. checkbox와 radio의 차이는?",
+      "file": "audio/q-306.mp3"
+    },
+    {
+      "id": "q-307",
+      "title": "Q307. `data-*` 속성을 왜 사용했습니까?",
+      "file": "audio/q-307.mp3"
+    },
+    {
+      "id": "q-308",
+      "title": "Q308. `h1`~`h6`는 글자 크기로 선택합니까?",
+      "file": "audio/q-308.mp3"
+    },
+    {
+      "id": "q-309",
+      "title": "Q309. `main`을 사용하는 이유는?",
+      "file": "audio/q-309.mp3"
+    },
+    {
+      "id": "q-310",
+      "title": "Q310. 상품 목록을 `ul > li`로 만드는 이유는?",
+      "file": "audio/q-310.mp3"
+    },
+    {
+      "id": "q-311",
+      "title": "Q311. 이미지에 width/height를 지정하면?",
+      "file": "audio/q-311.mp3"
+    },
+    {
+      "id": "q-312",
+      "title": "Q312. `loading=\"lazy\"`는 언제 씁니까?",
+      "file": "audio/q-312.mp3"
+    },
+    {
+      "id": "q-313",
+      "title": "Q313. `target=\"_blank\"` 사용 시 고려할 점은?",
+      "file": "audio/q-313.mp3"
+    },
+    {
+      "id": "q-314",
+      "title": "Q314. `input type=\"date\"` 장단점은?",
+      "file": "audio/q-314.mp3"
+    },
+    {
+      "id": "q-315",
+      "title": "Q315. viewport meta tag가 중요한 이유는?",
+      "file": "audio/q-315.mp3"
+    },
+    {
+      "id": "q-316",
+      "title": "Q316. 정적 HTML에서 header/footer 반복의 단점은?",
+      "file": "audio/q-316.mp3"
+    },
+    {
+      "id": "q-317",
+      "title": "Q317. `submit`과 `button` 타입 차이는?",
+      "file": "audio/q-317.mp3"
+    },
+    {
+      "id": "q-318",
+      "title": "Q318. JWA HTML을 지금 다시 검수한다면?",
+      "file": "audio/q-318.mp3"
+    },
+    {
+      "id": "q-319",
+      "title": "Q319. CSS 파일을 분리하는 이유는?",
+      "file": "audio/q-319.mp3"
+    },
+    {
+      "id": "q-320",
+      "title": "Q320. reset CSS를 왜 씁니까?",
+      "file": "audio/q-320.mp3"
+    },
+    {
+      "id": "q-321",
+      "title": "Q321. `box-sizing:border-box` 이유는?",
+      "file": "audio/q-321.mp3"
+    },
+    {
+      "id": "q-322",
+      "title": "Q322. Flex와 Grid 선택 기준은?",
+      "file": "audio/q-322.mp3"
+    },
+    {
+      "id": "q-323",
+      "title": "Q323. `gap`의 장점은?",
+      "file": "audio/q-323.mp3"
+    },
+    {
+      "id": "q-324",
+      "title": "Q324. absolute의 기준점은?",
+      "file": "audio/q-324.mp3"
+    },
+    {
+      "id": "q-325",
+      "title": "Q325. fixed와 sticky 차이는?",
+      "file": "audio/q-325.mp3"
+    },
+    {
+      "id": "q-326",
+      "title": "Q326. `z-index`를 크게 주면 항상 위입니까?",
+      "file": "audio/q-326.mp3"
+    },
+    {
+      "id": "q-327",
+      "title": "Q327. `display:none`과 `visibility:hidden` 차이는?",
+      "file": "audio/q-327.mp3"
+    },
+    {
+      "id": "q-328",
+      "title": "Q328. `.active` class로 팝업을 제어한 이유는?",
+      "file": "audio/q-328.mp3"
+    },
+    {
+      "id": "q-329",
+      "title": "Q329. `opacity:0`만으로 숨기면?",
+      "file": "audio/q-329.mp3"
+    },
+    {
+      "id": "q-330",
+      "title": "Q330. transition과 animation 차이는?",
+      "file": "audio/q-330.mp3"
+    },
+    {
+      "id": "q-331",
+      "title": "Q331. transform 이동이 top/left보다 유리할 수 있는 이유는?",
+      "file": "audio/q-331.mp3"
+    },
+    {
+      "id": "q-332",
+      "title": "Q332. `:hover`만으로 기능을 제공하면?",
+      "file": "audio/q-332.mp3"
+    },
+    {
+      "id": "q-333",
+      "title": "Q333. `:focus-visible`이 필요한 이유는?",
+      "file": "audio/q-333.mp3"
+    },
+    {
+      "id": "q-334",
+      "title": "Q334. specificity(명시도)란?",
+      "file": "audio/q-334.mp3"
+    },
+    {
+      "id": "q-335",
+      "title": "Q335. `:is()`의 장점과 주의점은?",
+      "file": "audio/q-335.mp3"
+    },
+    {
+      "id": "q-336",
+      "title": "Q336. `:where()`와 `:is()` 차이는?",
+      "file": "audio/q-336.mp3"
+    },
+    {
+      "id": "q-337",
+      "title": "Q337. `!important` 남용이 문제인 이유는?",
+      "file": "audio/q-337.mp3"
+    },
+    {
+      "id": "q-338",
+      "title": "Q338. breakpoint(중단점)는 어떻게 정합니까?",
+      "file": "audio/q-338.mp3"
+    },
+    {
+      "id": "q-339",
+      "title": "Q339. px/%/em/rem/vw 차이는?",
+      "file": "audio/q-339.mp3"
+    },
+    {
+      "id": "q-340",
+      "title": "Q340. `overflow:hidden` 주의점은?",
+      "file": "audio/q-340.mp3"
+    },
+    {
+      "id": "q-341",
+      "title": "Q341. 한 줄 말줄임은?",
+      "file": "audio/q-341.mp3"
+    },
+    {
+      "id": "q-342",
+      "title": "Q342. `object-fit:cover` 이유는?",
+      "file": "audio/q-342.mp3"
+    },
+    {
+      "id": "q-343",
+      "title": "Q343. JWA CSS 리팩터링 우선순위는?",
+      "file": "audio/q-343.mp3"
+    },
+    {
+      "id": "q-344",
+      "title": "Q344. `$(function(){...})`는?",
+      "file": "audio/q-344.mp3"
+    },
+    {
+      "id": "q-345",
+      "title": "Q345. 기능을 함수로 분리한 이유는?",
+      "file": "audio/q-345.mp3"
+    },
+    {
+      "id": "q-346",
+      "title": "Q346. `$('header').length`는?",
+      "file": "audio/q-346.mp3"
+    },
+    {
+      "id": "q-347",
+      "title": "Q347. header scroll 로직은?",
+      "file": "audio/q-347.mp3"
+    },
+    {
+      "id": "q-348",
+      "title": "Q348. scroll 성능 개선은?",
+      "file": "audio/q-348.mp3"
+    },
+    {
+      "id": "q-349",
+      "title": "Q349. addClass/removeClass/toggleClass 차이는?",
+      "file": "audio/q-349.mp3"
+    },
+    {
+      "id": "q-350",
+      "title": "Q350. `$(this)`는?",
+      "file": "audio/q-350.mp3"
+    },
+    {
+      "id": "q-351",
+      "title": "Q351. arrow function으로 바꿔도 `this`가 같습니까?",
+      "file": "audio/q-351.mp3"
+    },
+    {
+      "id": "q-352",
+      "title": "Q352. `.closest()`와 `.find()` 차이는?",
+      "file": "audio/q-352.mp3"
+    },
+    {
+      "id": "q-353",
+      "title": "Q353. `.parent()` 대신 `.closest()` 장점은?",
+      "file": "audio/q-353.mp3"
+    },
+    {
+      "id": "q-354",
+      "title": "Q354. event delegation(이벤트 위임)을 설명해보세요.",
+      "file": "audio/q-354.mp3"
+    },
+    {
+      "id": "q-355",
+      "title": "Q355. 이벤트 위임의 장점은?",
+      "file": "audio/q-355.mp3"
+    },
+    {
+      "id": "q-356",
+      "title": "Q356. `e.stopPropagation()`은?",
+      "file": "audio/q-356.mp3"
+    },
+    {
+      "id": "q-357",
+      "title": "Q357. preventDefault와 stopPropagation 차이는?",
+      "file": "audio/q-357.mp3"
+    },
+    {
+      "id": "q-358",
+      "title": "Q358. `.each()`는 왜 사용했습니까?",
+      "file": "audio/q-358.mp3"
+    },
+    {
+      "id": "q-359",
+      "title": "Q359. `$qty`, `$select`처럼 `$`를 붙인 이유는?",
+      "file": "audio/q-359.mp3"
+    },
+    {
+      "id": "q-360",
+      "title": "Q360. `.attr()`과 `.prop()` 차이는?",
+      "file": "audio/q-360.mp3"
+    },
+    {
+      "id": "q-361",
+      "title": "Q361. 비밀번호 표시/숨김 구현은?",
+      "file": "audio/q-361.mp3"
+    },
+    {
+      "id": "q-362",
+      "title": "Q362. floating label에서 focus/blur를 왜 씁니까?",
+      "file": "audio/q-362.mp3"
+    },
+    {
+      "id": "q-363",
+      "title": "Q363. `.val().trim()===''`은?",
+      "file": "audio/q-363.mp3"
+    },
+    {
+      "id": "q-364",
+      "title": "Q364. `toArray().every()`는?",
+      "file": "audio/q-364.mp3"
+    },
+    {
+      "id": "q-365",
+      "title": "Q365. `inputRequired()` 개선점은?",
+      "file": "audio/q-365.mp3"
+    },
+    {
+      "id": "q-366",
+      "title": "Q366. 숫자만 남기는 정규표현식은?",
+      "file": "audio/q-366.mp3"
+    },
+    {
+      "id": "q-367",
+      "title": "Q367. `parseInt()`를 왜 씁니까?",
+      "file": "audio/q-367.mp3"
+    },
+    {
+      "id": "q-368",
+      "title": "Q368. `Number()`와 `parseInt()` 차이는?",
+      "file": "audio/q-368.mp3"
+    },
+    {
+      "id": "q-369",
+      "title": "Q369. `isNaN(unitPrice)`는 왜 검사합니까?",
+      "file": "audio/q-369.mp3"
+    },
+    {
+      "id": "q-370",
+      "title": "Q370. `toLocaleString()`은?",
+      "file": "audio/q-370.mp3"
+    },
+    {
+      "id": "q-371",
+      "title": "Q371. 수량 감소에서 `min` 확인 이유는?",
+      "file": "audio/q-371.mp3"
+    },
+    {
+      "id": "q-372",
+      "title": "Q372. 99개 상한이면 재고 검증이 됩니까?",
+      "file": "audio/q-372.mp3"
+    },
+    {
+      "id": "q-373",
+      "title": "Q373. 총액 계산 때 전체 상품을 다시 순회하는 장단점은?",
+      "file": "audio/q-373.mp3"
+    },
+    {
+      "id": "q-374",
+      "title": "Q374. `.remove()`면 서버 장바구니에서도 삭제됩니까?",
+      "file": "audio/q-374.mp3"
+    },
+    {
+      "id": "q-375",
+      "title": "Q375. 전체 동의에서 label `toggleClass`만 쓰면?",
+      "file": "audio/q-375.mp3"
+    },
+    {
+      "id": "q-376",
+      "title": "Q376. custom select의 접근성 보완은?",
+      "file": "audio/q-376.mp3"
+    },
+    {
+      "id": "q-377",
+      "title": "Q377. 반복 popup 함수를 어떻게 리팩터링합니까?",
+      "file": "audio/q-377.mp3"
+    },
+    {
+      "id": "q-378",
+      "title": "Q378. jQuery JWA를 Vanilla JS로 바꿀 수 있습니까?",
+      "file": "audio/q-378.mp3"
+    },
+    {
+      "id": "q-379",
+      "title": "Q379. HOOT UP에서 Claude Code를 사용한 이유는?",
+      "file": "audio/q-379.mp3"
+    },
+    {
+      "id": "q-380",
+      "title": "Q380. “AI가 만들었는데 본인 역량은?”에 대한 답변은?",
+      "file": "audio/q-380.mp3"
+    },
+    {
+      "id": "q-381",
+      "title": "Q381. AI에게 HTML 생성 시 어떤 요구사항을 줍니까?",
+      "file": "audio/q-381.mp3"
+    },
+    {
+      "id": "q-382",
+      "title": "Q382. AI HTML의 첫 검수 항목은?",
+      "file": "audio/q-382.mp3"
+    },
+    {
+      "id": "q-383",
+      "title": "Q383. AI가 div만 많이 썼다면?",
+      "file": "audio/q-383.mp3"
+    },
+    {
+      "id": "q-384",
+      "title": "Q384. 클릭 가능한 div의 문제는?",
+      "file": "audio/q-384.mp3"
+    },
+    {
+      "id": "q-385",
+      "title": "Q385. AI CSS 검수 항목은?",
+      "file": "audio/q-385.mp3"
+    },
+    {
+      "id": "q-386",
+      "title": "Q386. absolute를 과도하게 썼다면?",
+      "file": "audio/q-386.mp3"
+    },
+    {
+      "id": "q-387",
+      "title": "Q387. px이 많으면 무조건 나쁩니까?",
+      "file": "audio/q-387.mp3"
+    },
+    {
+      "id": "q-388",
+      "title": "Q388. JS가 동작하면 검수가 끝납니까?",
+      "file": "audio/q-388.mp3"
+    },
+    {
+      "id": "q-389",
+      "title": "Q389. 요소 없는 페이지에서 JS 오류가 나면?",
+      "file": "audio/q-389.mp3"
+    },
+    {
+      "id": "q-390",
+      "title": "Q390. 같은 이벤트 코드가 반복되면?",
+      "file": "audio/q-390.mp3"
+    },
+    {
+      "id": "q-391",
+      "title": "Q391. 좋은 AI 수정 지시는?",
+      "file": "audio/q-391.mp3"
+    },
+    {
+      "id": "q-392",
+      "title": "Q392. 수정 후 diff를 보는 이유는?",
+      "file": "audio/q-392.mp3"
+    },
+    {
+      "id": "q-393",
+      "title": "Q393. 페이지가 많을 때 공통 UI 검수는?",
+      "file": "audio/q-393.mp3"
+    },
+    {
+      "id": "q-394",
+      "title": "Q394. AI 코드 접근성 검수는?",
+      "file": "audio/q-394.mp3"
+    },
+    {
+      "id": "q-395",
+      "title": "Q395. modal이 `display:block` 되면 충분합니까?",
+      "file": "audio/q-395.mp3"
+    },
+    {
+      "id": "q-396",
+      "title": "Q396. 이해 못한 AI 코드를 포트폴리오에 넣으면?",
+      "file": "audio/q-396.mp3"
+    },
+    {
+      "id": "q-397",
+      "title": "Q397. JWA와 HOOT UP의 차이를 어떻게 설명합니까?",
+      "file": "audio/q-397.mp3"
+    },
+    {
+      "id": "q-398",
+      "title": "Q398. AI 시대 웹퍼블리셔에게 중요한 역량은?",
+      "file": "audio/q-398.mp3"
     }
   ]
 }
